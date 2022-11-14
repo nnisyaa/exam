@@ -1,0 +1,28 @@
+html{
+    background-image: url(https://i.pinimg.com/originals/f3/14/b9/f314b966ba0a6093a04f4722a58cec86.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+.brand{
+    position: absolute;
+    font-size: 26px;
+}
+.menu{
+    display: flex;
+    justify-content:end;
+}
+h{
+    padding: 2px;
+    font-size: 16px;
+}
+.welcome{
+    position:absolute;
+    width: 99%;
+    top:50%;
+    text-align:center;
+}
